@@ -67,6 +67,6 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "horrorGame.slnx",
+    "dotnet.defaultSolution": "HorrorGame.slnx",
     "dotnet.enableWorkspaceBasedDevelopment": false
 }
